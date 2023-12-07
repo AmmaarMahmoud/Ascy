@@ -1,0 +1,7 @@
+{
+  "name": "Ascy",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
